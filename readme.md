@@ -30,9 +30,13 @@ Backend :
 ## API Endpoints :
 
 GET     /workouts          ----> Get all the Workouts Docs
+
 POST    /workouts          ----> Create New workout Doc
+
 GET     /workouts/:id      ----> Get a single workout Doc
+
 DELETE  /workouts/:id      ----> Delete a single workout Doc
+
 PATCH   /workouts/:id      ----> Update a single workout Doc
 
 
